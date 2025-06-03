@@ -1,15 +1,15 @@
-![](https://komarev.com/ghpvc/?username=cdswyda&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=magicds&color=blueviolet)
 
-![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdswyda&count_private=true&show_icons=true&theme=tokyonight)
+![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=magicds&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdswyda&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magicds&layout=compact&theme=tokyonight)
 
 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cdswyda&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=magicds&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 <!--
-**cdswyda/cdswyda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**magicds/magicds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
