@@ -1,0 +1,6 @@
+# Ignore any accidentally created files from build attempts
+package-lock.json
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
